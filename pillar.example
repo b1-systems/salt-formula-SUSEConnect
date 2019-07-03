@@ -1,0 +1,7 @@
+SUSEConnect:
+  regcode: XYZ47110815B1
+  products:
+    - sle-module-web-scripting/12/x86_64
+    - path: caasp/4.0/x86_64/x86_64
+      regcode: abc123
+
